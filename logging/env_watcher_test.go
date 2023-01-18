@@ -19,7 +19,7 @@ package logging_test
 import (
 	"fmt"
 
-	. "github.com/armPelionEdge/wigwag-go-logger/logging"
+	. "github.com/PelionIoT/wigwag-go-logger/logging"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
