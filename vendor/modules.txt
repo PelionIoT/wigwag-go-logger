@@ -1,8 +1,3 @@
-# github.com/PelionIoT/wigwag-go-logger v0.0.0-20190410170809-484676711aee
-## explicit
-github.com/PelionIoT/wigwag-go-logger/logging
-# github.com/armPelionEdge/wigwag-go-logger v0.0.0-20190410170809-484676711aee
-## explicit
 # github.com/golang/protobuf v1.5.2
 ## explicit; go 1.9
 # github.com/onsi/ginkgo v1.4.1-0.20171214073015-bc14b6691e7a
